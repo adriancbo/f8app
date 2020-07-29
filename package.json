@@ -19,7 +19,7 @@
     "graphql-relay": "~0.3.6",
     "immutable": "~3.7.6",
     "moment": "~2.11.2",
-    "parse": "~1.8.2",
+    "parse": "~2.10.0",
     "parse-dashboard": "~1.0.8",
     "parse-server": "~2.2.6",
     "react": "~0.14.5",
