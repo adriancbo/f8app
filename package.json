@@ -21,7 +21,7 @@
     "moment": "~2.11.2",
     "parse": "~1.8.2",
     "parse-dashboard": "~1.0.8",
-    "parse-server": "~2.2.6",
+    "parse-server": "~4.5.0",
     "react": "~0.14.5",
     "react-native": "0.23.1",
     "react-native-code-push": "~1.7.3-beta",
